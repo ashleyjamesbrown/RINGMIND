@@ -5,7 +5,7 @@ float G = 6.67408E-11;       // Gravitational Constant 6.67408E-11[m^3 kg^-1 s^-
 /**Class System
  */
 
-int n_particles = 1000;
+int n_particles = 2000;
 
 public abstract class System {
 
